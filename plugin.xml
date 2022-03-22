@@ -57,7 +57,7 @@
 
     <preference name="CAMERA_USAGE_DESCRIPTION" default=" " />
     <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-        <string>The camera is used to visually observe color changes in your blood vessels, so we can detect your pulse and analyze it for insights.</string>
+        <string>The camera is used to visually observe color changes in your blood vessels, so we can identify your pulse and inspect it to generate insights.</string>
     </config-file>    
     
     <config-file target="config.xml" parent="/widget">
